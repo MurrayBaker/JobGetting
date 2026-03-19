@@ -3,8 +3,11 @@
 Part of [SS&C](https://www.ssctech.com/) since 2025.
 
 _Director of Engineering_: 2025 - Present
+
 _Lead Engineer_: 2023 - 2025
+
 _Senior Software Engineer_: 2020 - 2023
+
 _Software Engineer_: 2018 - 2020
 
 [Calastone](calastone.com) does financial messaging, mostly routing mutual fund orders between market participants. Their website would have you believe that they did blockchain.
