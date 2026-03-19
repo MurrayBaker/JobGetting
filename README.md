@@ -10,7 +10,7 @@ _Senior Software Engineer_: 2020 - 2023
 
 _Software Engineer_: 2018 - 2020
 
-[Calastone](calastone.com) does financial messaging, mostly routing mutual fund orders between market participants. Their website would have you believe that they did blockchain.
+[Calastone](https://calastone.com) does financial messaging, mostly routing mutual fund orders between market participants. Their website would have you believe that they did blockchain.
 
 I run teams of teams now but still make technical contributions. Achievements so far as a director include:
 
